@@ -28,6 +28,7 @@
     "@solana/web3.js": "^1.95.0",
     "@types/node": "^20.14.10",
     "bs58": "^6.0.0",
+    "solana_mytoken": "file:",
     "typescript": "^5.5.3"
   },
   "devDependencies": {
